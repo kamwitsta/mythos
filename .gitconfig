@@ -1,0 +1,17 @@
+[color]
+	interactive = auto
+	pager = true
+	ui = auto
+[color "branch"]
+	current = red bold
+	local = green bold
+	remote = yellow bold
+[color "diff"]
+	meta = cyan
+	frag = blue bold
+	old = red
+	new = green
+[color "status"]
+	added = green
+	changed = magenta bold
+	untracked = yellow
